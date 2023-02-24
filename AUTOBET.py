@@ -20,7 +20,7 @@ print(Fore.RED + '''
 
 print(Fore.RED + '''
 
-Created by zZ#4630
+Created by cloak#4630
 Version 1.0.0
 
 
@@ -31,7 +31,7 @@ Version 1.0.0
                  This program cannot be redistributed without permission.
               This program cannot be modified or changed without permission.
 
-                            All Rights Reserved To zZ#4630.
+                            All Rights Reserved To cloak#4630.
                             
 
 ''')
